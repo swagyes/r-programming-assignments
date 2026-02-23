@@ -13,3 +13,4 @@ M <- diag(3, 5)
 M[1, ] <- c(3,1,1,1,1)
 M[,1] <- c(3,2,2,2,2)
 M
+#https://rprogramingorestes.blogspot.com/2026/02/module-6-assignment.html
