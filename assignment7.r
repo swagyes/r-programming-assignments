@@ -84,3 +84,5 @@ s4_course <- new("course_s4", code = "LIS4761", credits = 3, semester = "Spring 
 s4_course
 isS4(s4_course)
 slotNames(s4_course)
+
+#https://rprogramingorestes.blogspot.com/2026/03/r-object-s3-vs-s4-assignment.html
